@@ -1,2 +1,2 @@
 # arduino-morse
-Arduino project - translating ASCII to Morse code (also transmitting it) and translating Morse
+Arduino project - translating ASCII to Morse (also transmitting it) and Morse to ASCII
